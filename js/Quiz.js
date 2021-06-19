@@ -30,12 +30,23 @@ class Quiz {
 
   play(){
     //write code here to hide question elements
-    question.hide();
-    background("yellow");
-    fill (0);
-    textSize(30);
-    text("Result of Quiz",340,50);
-    Constestant.getPlayerInfo();
+    
+    
+    //add background color
+    
+    
+    //add text to display result of quiz
+    
+    
+    //call the getPlayerInfo function
+   
+    
+    
+    
+    
+    
+    
+    
     if(allConstestants!==undefined){
       fill("blue");
       textSize(20);
